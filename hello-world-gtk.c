@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <unistd.h> 
 #include <glib.h>
-#include <cairo.h>  //version
+#include <cairo.h>  //version2
 #include <stdlib.h> // Pour la fonction rand
 #include <time.h>   // Pour initialiser la graine de rand
 //ajouter des messages tels que fin ajout, fin tri, fin ....operation
